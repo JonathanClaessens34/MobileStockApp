@@ -1,0 +1,16 @@
+<resources>
+    <string name="key">RD9SZ2KDJRY14WE2</string>
+    <string name="app_name">Stockify</string>
+    <string name="buy">Buy Stock(s)</string>
+    <string name="search_hint">Search here ...</string>
+    <string name="totalvalue_default">TotalValue</string>
+    <string name="w_lpercentage_default">winst/verlies percentage</string>
+    <string name="stockName_default">StockName</string>
+    <string name="stockTicker_default">StockTicker</string>
+    <string name="amount_default">amount</string>
+    <string name="change_default">change: 20.0%</string>
+    <string name="stockValue_default">0.00€ / Stock</string>
+    <string name="donate_btn">Donate</string>
+
+    <string name="legalStuff">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget interdum erat, vitae pretium leo. Nunc vestibulum est ut malesuada euismod. Donec mauris felis, malesuada ut nibh et, pretium interdum elit. Praesent tortor leo, cursus a pulvinar eget, placerat sit amet dui. Nullam iaculis pellentesque eleifend. Sed luctus id ante a maximus. Integer lacus dui, euismod a convallis ut, lacinia in odio. In sit amet tincidunt nisi. Maecenas tincidunt quam quis ipsum ultricies, non condimentum tellus vulputate. Nunc vel pellentesque diam. Aliquam nec lectus a urna vestibulum dictum. Suspendisse pretium diam vitae magna porttitor, quis aliquam nunc faucibus. Mauris nibh nunc, finibus at lorem id, lobortis commodo risus. Fusce interdum mollis dui ullamcorper sagittis. Aliquam id tellus quis justo ornare venenatis pulvinar sed leo.  Pellentesque id lacinia nunc. In at aliquet ante, non pretium metus. Nulla justo mi, condimentum nec enim a, porta cursus arcu. Suspendisse mattis ac tellus id vulputate. In quis blandit elit. Nullam hendrerit dictum diam eget pulvinar. In dignissim non leo a tempus. Vestibulum lobortis nisi vitae nulla tempor, vestibulum porttitor enim interdum. Duis placerat eleifend dui, at tempor augue sodales eu. Aenean efficitur turpis venenatis auctor congue. Nam eu sapien finibus, blandit enim eget, porta diam.</string>
+</resources>

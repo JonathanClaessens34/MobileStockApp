@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1096524668479",
+    "firebase_url": "https://stockify-8abba-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "stockify-8abba",
+    "storage_bucket": "stockify-8abba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096524668479:android:5a37bed2369b0d0305228a",
+        "android_client_info": {
+          "package_name": "com.pxl.stockify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096524668479-b3emh121cnf8g3heb2go7uupsu7k15ic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pxl.stockify",
+            "certificate_hash": "7dba07000218e7f73189f0832f4b6b60d10d09d7"
+          }
+        },
+        {
+          "client_id": "1096524668479-gb7ssr2aag64n271786ipb2hijhjsmu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCwtuzqSoeLCRZJ5fUhdSZHX3RmyqKwac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096524668479-gb7ssr2aag64n271786ipb2hijhjsmu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
